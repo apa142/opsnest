@@ -11,7 +11,7 @@ npm install
 
 ## 2. Set Up Environment (1 minute)
 
-### Choose One:
+### Choose One: HUI
 
 #### Option A: MongoDB Atlas (Easiest)
 ```bash
